@@ -5,3 +5,6 @@ We propose **PRM-KD**, which stands for joint **K**nowledge **D**istillation fro
 
 ![](asset/model.png)
 
+
+## Note
+Due to the policy in the industrial incorporation where the code belongs to, we will release the code after the reviewing period.
